@@ -1,0 +1,22 @@
+body{
+   display: inline;
+   
+   
+    justify-content: center;
+}
+.h{
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+
+}
+.e{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.y{
+    display: flex;
+    justify-content: center;
+}

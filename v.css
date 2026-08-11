@@ -1,0 +1,36 @@
+.c{
+color: red;
+
+}
+.d{
+    height: 100px;
+    width: 300px;
+    background-color:rgb(10, 10, 10);
+    align-items: flex-start; 
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+}
+.p{
+    display: flex;
+    color: blue;
+
+}
+.dab{
+    color: brown;
+    height: 300px;
+}
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+.hap{
+    height: 100px;
+    width: 300px;
+    background-color: black;
+     align-items: flex-start;
+     font-weight: normal;
+
+}
